@@ -4,4 +4,3 @@ auto: true
 server: true
 
 paginate: 20
-site:http://allenyip.com/en
