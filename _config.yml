@@ -4,3 +4,4 @@ auto: true
 server: true
 
 paginate: 20
+url:http://allenyip.com/en
