@@ -1,11 +1,11 @@
 ---
 
-title: the Next "iPhone"
+title: The Next "iPhone"
 
 layout: post
 
 ---
-There's no doubt that iPhone has changed the way people interact with mobile devices, accomplished a revolution from keyboard-input to touch-experience. However, with the success of mobile devices and the mature of muti-touch became, people are losing their curiousness about it and looking forward to next revoluion of interaction.
+There's no doubt that iPhone has changed the way people interact with mobile devices, accomplished a revolution from keyboard-input to touch-experience. However, with the success of mobile devices and the mature of muti-touch technology became, people are losing their curiousness about it and looking forward to next revoluion of interaction.
 
 Some people begin to focus on these new technologies:
 
