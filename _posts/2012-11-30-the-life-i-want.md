@@ -13,12 +13,14 @@ From tomorrow on
 I will care foodstuff and vegetable  
 Living in a house towards the sea  
 with spring blossoms  
-From tomorrow on  
+
+>From tomorrow on  
 write to each of my dear ones  
 Telling them of my happiness  
 What the lightening of happiness has told me  
 I will spread it to each of them  
-Give a warm name for every river and every mountain  
+
+>Give a warm name for every river and every mountain  
 Strangers, I will also wish you happy  
 May you have a brilliant future  
 May your lovers eventually become spouse  
