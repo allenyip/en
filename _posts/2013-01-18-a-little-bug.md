@@ -5,9 +5,7 @@ title: A Little BUG
 layout: post
 
 ---
-![BUG Email][1]
-
-Blogging with Jekyll is really cool. After reading "[Blogging Like A Hacker][4]", an article wrote by [Github][2] co-founder [Tom Preston-Werner][3], I built this blog and bought a domain immediately. However, blogging with Jekyll is also very SABIXI, and it really makes me frustrated when Github send me a BUG email after I push my post.
+Blogging with Jekyll is really cool. After reading "[Blogging Like A Hacker][3]", an article wrote by [Github][1] co-founder [Tom Preston-Werner][2], I built this blog and bought a domain immediately. However, blogging with Jekyll is also very SABIXI, and it really makes me frustrated when Github send me a BUG email after I push my post.
 
 This BUG is really little and easy, but took me some time to deal with it, because:
 
@@ -27,7 +25,11 @@ I was killing this little bug till mid-night, and now I'm writing this post to t
 * Do not be lazy, write MORE articles.
 * Do not stay up so late, go to sleep NOW!
 
-[1]:http://i.imgur.com/dlD2Ox3.png
-[2]:http://github.com
-[3]:http://tom.preston-werner.com/
-[4]:http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html
+FYI, the bug info Github kidding me:
+ 
+![BUG Email][4]
+
+[1]:http://github.com
+[2]:http://tom.preston-werner.com/
+[3]:http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html
+[4]:http://i.imgur.com/dlD2Ox3.png
