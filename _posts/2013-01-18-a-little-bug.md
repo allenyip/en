@@ -17,7 +17,7 @@ So I added the GA code and committed a new post, then I received the first BUG e
 
 >Liquid Exception: undefined method 'xmlschema' for nil:NilClass in default
 
-I googled it and solved the error, it was because the filename of the website about file didn't match CCYY-MM-DD-title mode, so I deleted the date of that file and commited sucessfully.
+I googled it and solved the error, it was because the filename of the website [about][4] file didn't match CCYY-MM-DD-title mode, so I deleted the date of that file and commited sucessfully.
 
 I was killing this little bug till mid-night, and now I'm writing this post to tell myself:
 
@@ -27,9 +27,10 @@ I was killing this little bug till mid-night, and now I'm writing this post to t
 
 FYI, the bug info Github kidding me:
  
-![BUG Email][4]
+![BUG Email][5]
 
 [1]:http://github.com
 [2]:http://tom.preston-werner.com/
 [3]:http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html
-[4]:http://i.imgur.com/dlD2Ox3.png
+[4]:http://allenyip.com/about
+[5]:http://i.imgur.com/dlD2Ox3.png
