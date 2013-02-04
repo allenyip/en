@@ -5,7 +5,7 @@ title: Prolog, Logic Programming and Programming Paradigm
 layout: post
 
 ---
-Recently I did a research about Prolog language in my Artificial Intelligence class. I finally got a chance to see what logic programming is. (No pressure, no power, what a lazy pig...) At the very start I just want to write something about Prolog, but it seems like I have so many things to talk about, so this post ends up with the title of Prolog, Logic Programming and Programming Paradigm.   
+Recently I did a research about Prolog language in my Artificial Intelligence class. I finally got a chance to see what logic programming reallys is. (No pressure, no power, what a lazy pig...) At the very start I just want to write something about Prolog, but it seems like I have so many things to talk about, so this post ends up with the title of Prolog, Logic Programming and Programming Paradigm.   
 
 ---
 
@@ -107,7 +107,9 @@ The results  begin with " ?- ", query like this :
 
 ![Prolog Query][10]
 
-what's more, we can also use prolog to solve NLP or Expert System stuff, the basic mechanism is nearly the same :)
+What's more, we can also use prolog to solve NLP or Expert System stuff, the basic mechanism is nearly the same. Here is my presentation:
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/16338774" width="597" height="486" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/allenyip/prolog-16338774" title="Prolog" target="_blank">Prolog</a> </strong> from <strong><a href="http://www.slideshare.net/allenyip" target="_blank">allenyip</a></strong> </div>
 
 [1]:http://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.pdf
 [2]:http://i.imgur.com/oACpKEi.png
