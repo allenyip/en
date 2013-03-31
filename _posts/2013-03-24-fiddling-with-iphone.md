@@ -51,17 +51,18 @@ How to organize the app to make it beautiful and useful at the same time? Here's
 * **Click Hotspots**: We often use mobile in one hand, put your favourite apps in hotspots.
 
 ##**My Desktop**
-The wallpaper I use now is created by [cha研][6] from Weibo, You can download in [here][7]. (Can't stop playing cute...
-
-![LockScreen Wallpaper][8]
 
 App organized:
 
 I put apps by Apple in Screen 1, favourite apps in Screen 2 and 3, and other apps in Screen 4.
 
-![Screen 1][9]
-![Screen 2][10]
-![Screen 3][11]
+~~The wallpaper I'm using now is created by [cha研][6] from Weibo, You can download in [here][7]. (Can't stop playing cute...~~
+
+UPDATE ON 3/31: Stop playing cute, new wallpaper modified from Jimsy's [work][12] on Dribbble.
+
+![LockScreen Wallpaper New][13]
+![Screen 2 New][14]
+![Screen 3 New][15]
 
 PS: Aesthetics is subjective, this post just represent my persional and current view.
 
@@ -78,3 +79,7 @@ PS: Aesthetics is subjective, this post just represent my persional and current 
 [9]:http://i.imgur.com/BTbY2qc.png
 [10]:http://i.imgur.com/Yq1d44U.png
 [11]:http://i.imgur.com/CHZlX4R.png
+[12]:http://dribbble.com/shots/47106-iPhone4-Grid-Wallpaper
+[13]:http://i.imgur.com/rDbWJo0.png
+[14]:http://i.imgur.com/4rKOPp1.jpg
+[15]:http://i.imgur.com/YBO6Byp.jpg
