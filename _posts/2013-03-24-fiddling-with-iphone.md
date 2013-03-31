@@ -60,9 +60,9 @@ I put apps by Apple in Screen 1, favourite apps in Screen 2 and 3, and other app
 
 UPDATE ON 3/31: Stop playing cute, new wallpaper modified from Jimsy's [work][12] on Dribbble.
 
-![LockScreen Wallpaper New][16]
-![Screen 2 New][17]
-![Screen 3 New][18]
+![LockScreen Wallpaper New][13]
+![Screen 2 New][14]
+![Screen 3 New][15]
 
 PS: Aesthetics is subjective, this post just represent my persional and current view.
 
