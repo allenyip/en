@@ -21,13 +21,7 @@ So how to solve this problem? Node makes the most of JS event-driven feature, in
 
 Node's architecure is a module system, you can use NPM to install kinds of modules and type require to include them. Let's see what Node's Hello World looks like :
 
-<pre><code class="javascript">
-var http = require('http');
-http.createServer(function (req, res) {
-  res.writeHead(200, {'Content-Type': 'text/plain'});
-  res.end('Hello World\n');
-}).listen(1337, '127.0.0.1');
-</code></pre>
+{% gist 7749475 node1.js %}
 
 Functional Programming is amazing, it passes function as regular argument or even anonymous funtion. This Call-back Based on Event-driven is how Node really works. But the question is, how does Node handle requests without spawning new thread. 
 
@@ -35,34 +29,20 @@ Check out this [post][4], Node passes a function when it creates server, it invo
 
 First let's see how block happens：
 
-<pre><code>
-var res = db.query("select * from T");
-output(res);
-</code></pre>
+{% gist 7749475 node2.js %}
 
 After the process execute the query statement, it will hang-up to wait the query finish. Apparently it will block when the query is crazily complecated or there are too many query processes running.
 
 How event-driven solve this problem:
 
-<pre><code>
-db.query("select... ", function (res){
-    output(res);
-});
-//do something else
-</code></pre>
+{% gist 7749475 node3.js %}
 
 Instead of hanging up and waiting, the process keeps on running next statements after executing the query statement, and it will invoke the function automatically as soon as query is done.
 
 ##**DEMO**
 There are so many tutorials about Node.js on Google, I roughly learned it according to this [book][5]. Besides, the sleep function in JS is really interesting:
 
-<pre><code>
-function sleep(milliSeconds) {
-	var startTime = new Date().getTime();
-    while (new Date().getTime() < startTime + milliSeconds);
-}
-sleep(10000);
-</code></pre>
+{% gist 7749475 node4.js %}
 
 I wrote some demos, implemented a efficient file upload function with very few codes. I have to say, Node is powerful but hard to understand. This is my beginning, I think I should read more books about functional programming if I want to become a good Node developer.
 

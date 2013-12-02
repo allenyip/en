@@ -68,10 +68,7 @@ Prolog(Programming in Logic) was first conceived by a group around Alain Colmera
 
 Prolog is simple but effcient, it takes just two lines to solve the hanoi problem:
 
-<pre><code class="prolog">
-move(1,X,Y,\_):-write('Move top disk from '),write(X),write(' to '), write(Y), nl.   
-move(N,X,Y,Z):-N>1,M is N-1,move(M,X,Z,Y),move(1,X,Y,\_),move(M,Z,Y,X). 
-</code></pre>
+{% gist 7749574 prolog1.pro %}
 
 I will make an simple example to show the three statements that Prolog has: fact, rule and result.
 
@@ -81,27 +78,7 @@ Assume we have a family tree like this:
 
 Define the facts and rules in family.pl like this:
 
-<pre><code class="prolog">
-/* facts */
-male(baba).
-male(yeye).
-female(nainai).
-female(mama).
-male(wo).
-father(yeye,baba).
-father(baba,wo).
-mother(nainai,baba).
-mother(mama,wo).
-
-/* rules */
-grandfather(X,Y):-father(X,Z),father(Z,Y).
-grandmother(X,Y):-mother(X,Z),father(Z,Y).
-daughter(X,Y):-parent(X,Y),female(Y).
-son(X,Y):-parent(Y,X),male(X).
-parent(X,Y):-father(X,Y);mother(X,Y).
-ancestor(X,Y):-parent(X,Y).
-ancestor(X,Y):-parent(X,Z),ancestor(Z,Y).
-</code></pre>
+{% gist 7749574 prolog2.pro %}
 
 The results  begin with " ?- ", query like this :
 
