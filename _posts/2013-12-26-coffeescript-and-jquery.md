@@ -76,6 +76,6 @@ An simple callback example:
 
 ...
 
-##**CONCLUSIONS**
+##**CONCLUSION**
 
 Front-end Development is really a beautiful thing, but I still can't make my mind to walk this path. Now there are too many things I want to learn but I don't have enough time. The worst thing is, I'm still digging different holes. Just like now, I want to dig about Ruby again, before I finish learning CoffeeScript. It's bad, I know, but I just can't stop it :(
