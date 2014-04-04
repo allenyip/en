@@ -1,13 +1,17 @@
-@import url(//fonts.googleapis.com/css?family=Rosario);
-@import url(//fonts.googleapis.com/css?family=PT+Sans);
+@import url(http://fonts.googleapis.com/css?family=Galdeano);
+@import url(http://fonts.googleapis.com/css?family=Electrolize);
+@import url(http://fonts.googleapis.com/css?family=Cuprum);
 
 html, body {
   height: 100%;
 }
 
 body {
-  font: 16px/1.8 "Rosario", "Xin Gothic", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
+  /*font: 16px/1.8 "Rosario", "Xin Gothic", "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", Arial, sans-serif;
   color: #666;
+  */
+  font: 16px/1.8 "Galdeano","Hiragino Sans GB","Microsoft YaHei",Trebuchet,"Trebuchet MS",Tahoma,"Lucida Grande","Lucida Sans Unicode",Verdana,sans-serif;
+  color:#666;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -38,15 +42,30 @@ a:hover {
   color: #aa0000;
 }
 
-pre, blockquote {
+blockquote {
   border-left: 1px solid #ccc;
   margin: 0 0 20px 0px;
   padding: 10px 15px;
 }
 
-pre, tt, code {
-    font: 14px "Menlo", monospace;
+/* modify code starts */
+.post pre {
+  border: 1px solid #ddd;
+  background-color: #E8E8E8;
+  padding: 0 .4em;
 }
+
+.post code {
+  border: 1px solid #ddd;
+  background-color: #E8E8E8;
+  padding: 0 .2em;
+}
+
+.post pre code {
+  border: none;
+}
+
+/* modify ends */
 
 .align-center {
   text-align: center;
